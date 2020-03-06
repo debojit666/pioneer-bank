@@ -7,3 +7,28 @@ body{
     border-radius: 10px;
     box-shadow: 5px 5px 10px gray;
 }
+/* jehetu transaction-area ekta id tai '#' use kora hoise . er bodole*/
+#transaction-area{ 
+    display: none;
+}
+.deposit{
+    background-color: slateblue;
+    margin: 0 20px;
+
+}
+.withdraw{
+    background-color: lightsalmon;
+    margin: 0 20px;
+
+}
+.balance{
+    background-color: orange;
+    margin: 0 20px;
+
+}
+.status{
+    text-align: center;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
