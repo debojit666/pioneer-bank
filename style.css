@@ -7,7 +7,7 @@ body{
     border-radius: 10px;
     box-shadow: 5px 5px 10px gray;
 }
-/* jehetu transaction-area ekta id tai '#' use kora hoise . er bodole*/
+/* As transaction-area is an id hence '#' has been used here instead of '.' */
 #transaction-area{ 
     display: none;
 }
